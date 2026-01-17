@@ -22,7 +22,7 @@ ul {
   width: 600px;
   margin: 0 auto;
   padding: 20px;
-  colour: blue;
+  background-color: hsl(49, 69%, 49%);
   border: 1px solid #ccc;
   border-radius: 10px;
   background-color: #fff;
